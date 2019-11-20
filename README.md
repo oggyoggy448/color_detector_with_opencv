@@ -11,5 +11,6 @@ This project is has three parts
  
 
 ##Requirement 
-python 3.+
-opencv 2.+
+1. python 3.7
+2. opencv 4.1.1.26
+3. numpy  

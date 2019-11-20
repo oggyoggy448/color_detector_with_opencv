@@ -2,6 +2,8 @@ import cv2
 import numpy as np
 
 
+
+
 def single_color_detector():
     # Webcamera no 0 is used to capture the frames
     cap = cv2.VideoCapture(0)
